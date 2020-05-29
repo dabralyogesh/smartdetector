@@ -1,2 +1,2 @@
-# SmartDetector
-A web app that recognizes the faces in images
+#SmartDetector
+The web app that detects faces in the image.
